@@ -106,7 +106,6 @@ namespace WpfApp1.ViewModels
             {
                 //HandyControl.Controls.MessageBox.Error("无用户可删除!", "错误");
                 Growl.Error("无用户可删除！", "SuccessMsg");
-                //Notification.Show("您有一则新消息！", ShowAnimation.Fade, true);
             }
 
         }
